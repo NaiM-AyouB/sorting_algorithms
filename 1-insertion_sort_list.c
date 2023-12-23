@@ -2,6 +2,7 @@
 
 /**
  * swap_nodes - Swap two nodes in a listint_t doubly-linked list.
+ * @list: list
  * @n1: the first node to swap.
  * @n2: The second node to swap.
  */
